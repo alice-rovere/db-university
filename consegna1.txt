@@ -1,0 +1,27 @@
+Ciao classe
+esercizio di oggi: MySQL Queries
+nome repo: db-university (stessa repo dello scorso esercizio)
+
+Dopo aver creato un nuovo database university nel vostro HeidiSQL e aver importato lo schema allegato, eseguite le query del file allegato.
+
+Cosa consegnare? 
+Dopo aver testato le vostre query, riportatele in un file .txt o .sql all'interno della vostra repo. Ricordate commit e push.
+
+
+Assicuratevi di aver installato i tool richiesti come visto a lezione:
+
+Installazione MySQL Server: https://dev.mysql.com/downloads/mysql/ Selezionare la versione 8.4.1 LTS 
+e poi seguire il wizzard nell'istallazione e durante gli steps:
+Tipo di installazione: Typical
+Impostiamo una password per l’utente root che ci servirà indicare poi alla creazione della connessione in HeidiSQL
+Impostiamo l’avvio di MySQL all’avvio del PC
+
+Installazione DBeaver: https://dbeaver.io/download/
+Creazione nuova connessione (icona con + in alto a sinistra)
+Scegliere come driver MySQL con versione 8+
+Inserire la password per l'utente root, lasciando gli altri valori di default.
+
+Link doc SQL
+https://www.w3schools.com/sql/default.asp
+
+Buon lavoro! 💪
