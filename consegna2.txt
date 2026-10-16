@@ -1,0 +1,8 @@
+Ciao classe
+esercizio di oggi: SQL GROUP BY e JOIN
+nome repo: db-university (la stessa degli scorsi esercizi)
+
+Consegna
+Utilizzando lo stesso database university, eseguite le query in allegato. 
+Create un secondo file nella repo con le queries per GROUP BY.
+Create un terzo file nella repo con le queries per JOIN.
